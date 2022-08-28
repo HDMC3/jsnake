@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    background-color: #546E7A;
+}
+
+h1, p, h6 {
+    line-height: 1.15;
+}
