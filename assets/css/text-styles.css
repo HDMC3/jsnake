@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'PixeloidMono';
+    src: url('/assets/fonts/PixeloidMono.ttf');
+}
+
+.grandpixel-font {
+    font-family: PixeloidMono;
+    cursor: default;
+}
+
+.text-border {
+    text-shadow: 2px 0 0 #243342, -2px 0 0 #243342, 0 2px 0 #243342, 0 -2px 0 #243342, 1px 1px #243342, -1px -1px 0 #243342, 1px -1px 0 #243342, -1px 1px 0 #243342,
+    3px 0 0 #fff, -3px 0 0 #fff, 0 3px 0 #fff, 0 -3px 0 #fff, 2px 2px #fff, -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff;
+}
+
+.title-text-border {
+    text-shadow: 2px 0 0 #243342, -2px 0 0 #243342, 0 2px 0 #243342, 0 -2px 0 #243342, 1px 1px #243342, -1px -1px 0 #243342, 1px -1px 0 #243342, -1px 1px 0 #243342
+}
